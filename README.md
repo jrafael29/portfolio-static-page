@@ -1,1 +1,1 @@
-![Pagina Estatica Preview](./images/page-screenshot.png)
+![Pagina Estatica Preview](./images/page-preview.png)
